@@ -47,5 +47,3 @@ To run the Pain Management App locally, follow these steps:
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-
-Feel free to customize this README file according to your project's specific details and requirements.
